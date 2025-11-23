@@ -1,0 +1,18 @@
+# Perception + RL Journey (6 Months)
+
+This repo tracks my self-taught journey into:
+- Perception (vision)
+- Reinforcement Learning  
+- ML engineering fundamentals
+
+I post weekly updates here: https://twitter.com/jaintle  
+
+## Current Focus (Month 1)
+- PyTorch basics
+- Custom training loop
+- MNIST
+- CIFAR-10 simple CNN
+
+## Structure
+- `vision/` — All vision experiments
+- `utils/` — Shared training + dataset utilities
