@@ -1,0 +1,11 @@
+# CIFAR-10 – Simple CNN Baseline
+
+Goal:
+- Build a small CNN for CIFAR-10
+- Target: ~70–75% accuracy
+- Prepare for ResNet18 training next week
+
+Files:
+- `train.py`
+- `models.py`
+- `config.json`

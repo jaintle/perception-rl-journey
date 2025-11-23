@@ -1,0 +1,11 @@
+# MNIST – Baseline Classifier
+
+Goal:
+- Train a simple MNIST classifier with my own training loop
+- Achieve > 98% accuracy
+- Use this as the base template for future vision work
+
+Files:
+- `train.py` — main training script
+- `models.py` — model definitions (simple MLP or CNN)
+- `config.json` — hyperparameters
